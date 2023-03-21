@@ -19,6 +19,7 @@ const elements = ingredients.map(option => {
 
    const list = document.querySelector('#ingredients');
     list.append(...elements);
+
 console.log(list)
-    console.log(elements);
+ console.log(elements);
    
