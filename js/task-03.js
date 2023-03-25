@@ -22,4 +22,4 @@ const galleryMarkup = images.reduce(
 );
 List.insertAdjacentHTML("beforeend", galleryMarkup);
 
-console.log(List)
+console.log(List);
